@@ -74,6 +74,7 @@ body {
 
 .footer__quote {
   font-style: italic;
+  text-align: center;
 }
 
 .footer__who-quote {
