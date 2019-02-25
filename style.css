@@ -1,11 +1,11 @@
 body {
   font-family: sans-serif;
+  min-width: 320px;
 }
 
 #main-container {
   display: block;
-  max-width: 960px;
-  width: 100%;
+  width: 85%;
   margin: 20px auto;
 }
 
@@ -33,6 +33,7 @@ body {
   box-sizing: border-box;
   display: block;
   max-width: 100%;
+  margin: auto;
 }
 
 #img-caption {
